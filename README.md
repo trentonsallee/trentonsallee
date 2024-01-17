@@ -9,5 +9,6 @@
 Please reach out for collaboration or questions
 <p
 <link> trentonsmiles@gmail.com </link>
+
 <link> https://www.linkedin.com/in/trenton-sallee-56a92a1b5/ </link>
 </p>
