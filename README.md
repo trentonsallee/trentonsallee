@@ -1,6 +1,6 @@
 <h2> Hi, I’m Trenton! </h2>
 
- <h4>I’m currently improving my skills in</h4>  HTML, CSS, JavaScript, React, Node, & MySQL.
+ <h4>I’m currently improving my skills in  HTML, CSS, JavaScript, React, Node, & MySQL.</h4>
 
 
  In this portfolio you'll find some of my favorite and featured projects. I encourage you to download them and use them in your everyday life! 
